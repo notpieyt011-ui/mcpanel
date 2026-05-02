@@ -1,5 +1,5 @@
-```Installation 🚀
-
+## Installation 🚀
+```
 • sudo apt install openjdk-21-jdk -y
 
 • curl -sL https://deb.nodesource.com/setup_23.x | sudo bash -
