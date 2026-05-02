@@ -22,10 +22,10 @@
   pm2 save
 
 • INSTALL CLOUDFARE AND SETUP
-     HTTP localhost:3000
+• HTTP localhost:3000
 
 NOTE ⚠️
 
-ADMIN USER : admin
-ADMIN PASS : admin123
+• ADMIN USER : admin
+• ADMIN PASS : admin123
 
